@@ -33,6 +33,7 @@
 - akka/akka-grpc
 - akka/akka-grpc-sample-kubernetes-scala
 - akka/akka-http
+- akka/akka-management
 - akka/akka-minion
 - akka/akka-paradox
 - akka/akka-persistence-jdbc
@@ -63,6 +64,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- alpakka/alpakka-kafka
 - amorvincitomnia/thehand
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
